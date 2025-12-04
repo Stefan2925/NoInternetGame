@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Proiecte\\DinoGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{560DC98A-6D2E-42C4-A998-38F3465DDC8C}|DinoGame\\DinoGame.csproj|c:\\proiecte\\dinogame\\dinogame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{560DC98A-6D2E-42C4-A998-38F3465DDC8C}|DinoGame\\DinoGame.csproj|solutionrelative:dinogame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Proiecte\\DinoGame\\DinoGame\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DinoGame\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Proiecte\\DinoGame\\dinogame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dinogame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Proiecte\\DinoGame\\DinoGame\\Form1.cs",
+              "RelativeDocumentMoniker": "DinoGame\\Form1.cs",
+              "ToolTip": "C:\\Proiecte\\DinoGame\\DinoGame\\Form1.cs",
+              "RelativeToolTip": "DinoGame\\Form1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:04:43.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Proiecte\\DinoGame\\DinoGame\\Form1.cs",
               "RelativeDocumentMoniker": "DinoGame\\Form1.cs",
