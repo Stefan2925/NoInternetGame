@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Proiecte\\DinoGame\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{560DC98A-6D2E-42C4-A998-38F3465DDC8C}|DinoGame\\DinoGame.csproj|c:\\proiecte\\dinogame\\dinogame\\classes\\spike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560DC98A-6D2E-42C4-A998-38F3465DDC8C}|DinoGame\\DinoGame.csproj|solutionrelative:dinogame\\classes\\spike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{560DC98A-6D2E-42C4-A998-38F3465DDC8C}|DinoGame\\DinoGame.csproj|c:\\proiecte\\dinogame\\dinogame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{560DC98A-6D2E-42C4-A998-38F3465DDC8C}|DinoGame\\DinoGame.csproj|solutionrelative:dinogame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,8 +22,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Proiecte\\DinoGame\\DinoGame\\Form1.cs",
+              "RelativeDocumentMoniker": "DinoGame\\Form1.cs",
+              "ToolTip": "C:\\Proiecte\\DinoGame\\DinoGame\\Form1.cs",
+              "RelativeToolTip": "DinoGame\\Form1.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAiwKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:04:43.212Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -27,24 +45,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Proiecte\\DinoGame\\DinoGame\\Form1.cs",
-              "RelativeDocumentMoniker": "DinoGame\\Form1.cs",
-              "ToolTip": "C:\\Proiecte\\DinoGame\\DinoGame\\Form1.cs*",
-              "RelativeToolTip": "DinoGame\\Form1.cs*",
-              "ViewState": "AgIAACQAAAAAAAAAAAAIwHUAAAAlAAAAAAAAAA==",
+              "Title": "Spike.cs",
+              "DocumentMoniker": "C:\\Proiecte\\DinoGame\\DinoGame\\Classes\\Spike.cs",
+              "RelativeDocumentMoniker": "DinoGame\\Classes\\Spike.cs",
+              "ToolTip": "C:\\Proiecte\\DinoGame\\DinoGame\\Classes\\Spike.cs*",
+              "RelativeToolTip": "DinoGame\\Classes\\Spike.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T14:04:43.212Z",
+              "WhenOpened": "2025-12-05T06:26:34.626Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Proiecte\\DinoGame\\DinoGame\\Form1.cs",
               "RelativeDocumentMoniker": "DinoGame\\Form1.cs",
-              "ToolTip": "C:\\Proiecte\\DinoGame\\DinoGame\\Form1.cs [Design]*",
-              "RelativeToolTip": "DinoGame\\Form1.cs [Design]*",
+              "ToolTip": "C:\\Proiecte\\DinoGame\\DinoGame\\Form1.cs [Design]",
+              "RelativeToolTip": "DinoGame\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-04T13:53:26.37Z",
               "EditorCaption": " [Design]"
