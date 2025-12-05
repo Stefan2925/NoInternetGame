@@ -249,7 +249,7 @@ namespace DinoGame
         // Draw the player in the board array
         void drawDino(int y)
         {
-                Board[dinoX][y] = (int)PATRATE.PLAYER;
+            Board[dinoX][y] = (int)PATRATE.PLAYER;
         }
 
         // Returns a triangle-shaped spike polygon positioned at gridX, gridY in pixel coordinates
